@@ -26,6 +26,8 @@ public class AnimalSound extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 soundText.setText(a.dogbark.toString()+a.cat.toString());
+
+
             }
         });
 
